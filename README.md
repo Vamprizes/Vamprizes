@@ -30,7 +30,8 @@ i may be afk or slow to respond sometimes because i fall asleep constantly, so d
 
 <br>
 
-<img src="./hualian.png" width="100%">
+<img src="./8c064a46d1bb49d3390882b7f27e2618.jpg
+" width="100%">
 
 <br><br>
 
