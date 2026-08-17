@@ -6,34 +6,39 @@
 
 ♡ ───────────────────────────── ♡
 
+<img src="./8c064a46d1bb49d3390882b7f27e2618.jpg" width="85%">
+
+♡ ───────────────────────────── ♡
+
+
 <table width="100%">
 <tr>
 <td>
 
 ### ♡ hello!
 
-hi! i'm koda or dakoda :3  
-i'm here to ramble about fixations and make friends!!
+koda or dakoda
+
 
 **✦ c+h / interaction**
 
-c+h is always okay! feel free to sit with me or interact whenever.  
-i'm also perfectly fine with random interactions, whispers, compliments, etc.
+c+h always okay! feel free to sit with me or interact whenever.  
 
-i may be afk or slow to respond sometimes because i fall asleep constantly, so don't take it personally!!
+may be afk/slow to respond due to falling asleep 
+constantly / tabbing
 
-(not to mention, i have sevre anxiety and may appear to be dry at times but trust me im not! i am just nervous.)
+don't take it personally. 
+
+whisper if i'm not answering
+right away!
+
+
 
 </td>
 </tr>
 </table>
 
 <br>
-
-<img src="./8c064a46d1bb49d3390882b7f27e2618.jpg
-" width="100%">
-
-<br><br>
 
 <table width="100%">
 <tr>
