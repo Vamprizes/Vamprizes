@@ -8,15 +8,7 @@
 
 <br>
 
-<font color="#df6b9f" size="3">୨୧</font>
-　<font color="#c7a3ed" size="4">✧</font>
-　<font color="#79c4a5" size="3">♡</font>
-　<font color="#df6b9f" size="4">✦</font>
-　<font color="#c7a3ed" size="3">୨୧</font>
 
-<br>
-
-<font color="#f28bb5" size="4">✦</font> <font color="#c7a3ed" size="3">｡</font> <font color="#79c4a5" size="4">♡</font> <font color="#f28bb5" size="3">˚</font> <font color="#c7a3ed" size="4">✦</font>
 
 <br>
 
@@ -24,7 +16,7 @@
 
 <br>
 
-<font color="#9a7bc5" size="3"><b>19</b></font> <font color="#e7a0bd">　♡　</font> <font color="#70ad91" size="3"><b>they/them</b></font> <font color="#e7a0bd">　♡　</font> <font color="#9a7bc5" size="3"><b>nonbinary & aroace</b></font>
+<font color="#9a7bc5" size="3"><b>19</b></font> <font color="#e7a0bd">　♡　16+
 
 <br>
 
