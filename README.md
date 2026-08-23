@@ -44,34 +44,6 @@ right away!
 <tr>
 <td>
 
-### ✦ dni / boundaries
-
-**16+ only.**
-
-please don't interact if you:
-
-- fit basic dni criteria
-- are racist, homophobic, transphobic, sexist, ableist, etc.
-- support harassment or intentionally start drama
-- repeatedly ignore boundaries
-- are repeatedly rude or creepy
-
-</td>
-</tr>
-</table>
-
-<br>
-
-♡ ───────────────────────────── ♡
-
-**✦ top fixations ✦**
-
-`erha` · `mxsds` · `tgcf` · `bsd`
-
-**✦ current top characters ✦**
-
-hua cheng · nikolai gogol · nie huaisang · **chu wanning**
-
 ♡ ───────────────────────────── ♡
 
 if i don't want to interact, i'll just block/hide.  
