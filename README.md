@@ -30,7 +30,7 @@
 
 <!-- IMAGE — CENTERED, NO BOX -->
 
-<img src="./8c064a46d1bb49d3390882b7f27e2618.jpg" width="85%">
+<img src="picmix.com_2656101.png" width="85%">
 
 <br>
 
