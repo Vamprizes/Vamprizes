@@ -1,20 +1,34 @@
 <div align="center">
 
-<br><br>
+<br>
 
-<font color="#f28bb5" size="5">✦</font> <font color="#c7a3ed" size="4">｡</font> <font color="#79c4a5" size="5">♡</font> <font color="#f28bb5" size="3">˚</font> <font color="#c7a3ed" size="5">✦</font>
+<!-- IMAGE -->
+
+<img src="picmix.com_2656101.png" width="72%">
 
 <br>
 
-<font color="#df6b9f" size="7"><b>dakoda</b></font>
+<font color="#df6b9f" size="3">୨୧</font>
+　<font color="#c7a3ed" size="4">✧</font>
+　<font color="#79c4a5" size="3">♡</font>
+　<font color="#df6b9f" size="4">✦</font>
+　<font color="#c7a3ed" size="3">୨୧</font>
+
+<br>
+
+<font color="#f28bb5" size="4">✦</font> <font color="#c7a3ed" size="3">｡</font> <font color="#79c4a5" size="4">♡</font> <font color="#f28bb5" size="3">˚</font> <font color="#c7a3ed" size="4">✦</font>
+
+<br>
+
+<font color="#df6b9f" size="6"><b>dakoda</b></font>
 
 <br>
 
 <font color="#9a7bc5" size="3"><b>19</b></font> <font color="#e7a0bd">　♡　</font> <font color="#70ad91" size="3"><b>they/them</b></font> <font color="#e7a0bd">　♡　</font> <font color="#9a7bc5" size="3"><b>nonbinary & aroace</b></font>
 
-<br><br>
+<br>
 
-<font color="#70ad91" size="4">╰┈➤</font> <font color="#df6b9f" size="3"><b>please check my strawpage before interacting!</b></font> <font color="#70ad91" size="4">♡</font>
+<font color="#70ad91" size="3">╰┈➤</font> <font color="#df6b9f" size="3"><b>please check my strawpage before interacting!</b></font> <font color="#70ad91" size="3">♡</font>
 
 <br>
 
@@ -26,33 +40,11 @@
 
 <font color="#df8bb0">✦ ───── </font> <font color="#9a7bc5">♡</font> <font color="#70ad91"> ───── ✦ </font> <font color="#df8bb0">♡</font> <font color="#9a7bc5">─────</font>
 
-<br><br><br>
+<br><br>
 
-<!-- IMAGE — CENTERED, NO BOX -->
-
-<img src="picmix.com_2656101.png" width="85%">
+<font color="#c7a3ed" size="4">⋆｡°✩</font> <font color="#df8bb0" size="3">♡</font> <font color="#79c4a5" size="4">✩°｡⋆</font>
 
 <br>
-
-<font color="#df6b9f" size="3">୨୧</font>
-　<font color="#c7a3ed" size="4">✧</font>
-　<font color="#79c4a5" size="3">♡</font>
-　<font color="#df6b9f" size="4">✦</font>
-　<font color="#c7a3ed" size="3">୨୧</font>
-
-<br><br>
-
-<font color="#c7a3ed" size="5">⋆｡°✩</font> <font color="#df8bb0" size="4">♡</font> <font color="#79c4a5" size="5">✩°｡⋆</font>
-
-<br><br>
-
-<font color="#df6b9f" size="5"><b>hello!</b></font>
-
-<br>
-
-<font color="#9a7bc5" size="3">╭─</font> <font color="#555555">koda or dakoda</font> <font color="#9a7bc5" size="3">─╮</font>
-
-<br><br>
 
 <font color="#79ad91" size="3"><b>✦ c+h / interaction</b></font>
 
@@ -73,7 +65,7 @@ may be afk / slow to respond </font> <font color="#df6b9f">♡</font>
 may be asleep or tabbed out.
 </font>
 
-<br><br>
+<br>
 
 <font color="#c7a3ed"><b>don't take it personally!</b></font>
 
@@ -81,9 +73,9 @@ may be asleep or tabbed out.
 
 <font color="#70ad91">✦</font> <font color="#df6b9f"><b>whisper if needed!</b></font> <font color="#70ad91">✦</font>
 
-<br><br><br>
+<br><br>
 
-<font color="#df8bb0" size="6">﹀</font>
+<font color="#df8bb0" size="5">﹀</font>
 
 <br>
 
@@ -99,14 +91,14 @@ please respect that ♡
 
 <br><br>
 
-<font color="#70ad91" size="4">✦</font> <font color="#c7a3ed" size="3">♡</font> <font color="#df6b9f" size="4">୨୧</font> <font color="#70ad91" size="3">✧</font> <font color="#c7a3ed" size="4">♡</font> <font color="#df6b9f" size="3">✦</font>
+<font color="#70ad91" size="3">✦</font> <font color="#c7a3ed" size="3">♡</font> <font color="#df6b9f" size="3">୨୧</font> <font color="#70ad91" size="3">✧</font> <font color="#c7a3ed" size="3">♡</font> <font color="#df6b9f" size="3">✦</font>
 
-<br><br>
+<br>
 
 <font color="#df6b9f" size="2">
 <sup>thanks for stopping by ♡</sup>
 </font>
 
-<br><br>
+<br>
 
 </div>
