@@ -3,7 +3,7 @@
 <br>
 
 <!-- MAIN IMAGE -->
-<img src="YOUR MAIN IMAGE HERE" width="520">
+<img src="image_2026-08-31_033523056.png" width="520">
 
 <br><br>
 
