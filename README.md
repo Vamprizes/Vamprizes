@@ -1,4 +1,20 @@
 <div align="center">
+  <br>
+
+<!-- TOP DECORATION -->
+$\color{#789052}{\textsf{𓆩　✦　୨୧　✦　𓆪}}$
+
+<br>
+
+$\color{#B2AD62}{\Large{\textsf{⊹ ࣪ ˖ 𝓀𝑜𝒹𝒶 ˖ ࣪ ⊹}}}$
+
+<br>
+
+$\color{#50735A}{\textsf{₊˚⊹ ───── ⋆｡°✩°｡⋆ ───── ⊹˚₊}}$
+
+<br>
+
+<div align="center">
 
 <br>
 
@@ -12,16 +28,6 @@ $\color{#245B61}{\small{\textsf{all art here by ; Twow09 (will be replacing this
 
 <br>
 
-<!-- TOP DECORATION -->
-$\color{#789052}{\textsf{𓆩　✦　୨୧　✦　𓆪}}$
-
-<br>
-
-$\color{#B2AD62}{\Large{\textsf{⊹ ࣪ ˖ 𝓀𝑜𝒹𝒶 ˖ ࣪ ⊹}}}$
-
-<br>
-
-$\color{#50735A}{\textsf{₊˚⊹ ───── ⋆｡°✩°｡⋆ ───── ⊹˚₊}}$
 
 <br>
 
