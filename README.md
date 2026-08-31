@@ -8,7 +8,7 @@
 <br><br>
 
 <!-- DECORATIVE PARROTX2 IMAGE -->
-<img src="YOUR PARROTX2 DECORATION HERE" width="300">
+<img src="d63.gif" width="300">
 
 <br>
 
