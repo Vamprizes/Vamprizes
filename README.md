@@ -46,14 +46,14 @@ $\color{#245B61}{\textsf{╰┈➤　𓆩♡𓆪　─────────�
 <!-- STAMPS / BLINKIES -->
 <img src="YOUR STAMP HERE" width="120">
 &nbsp;&nbsp;
-<img src="YOUR STAMP HERE" width="120">
+<img src="" width="120">
 &nbsp;&nbsp;
 <img src="YOUR BLINKIE HERE" width="120">
 
 <br><br>
 
 <!-- EXTRA DECORATION -->
-<img src="unnamed (1).gif" width="220">
+<img src="" width="220">
 
 <br><br>
 
