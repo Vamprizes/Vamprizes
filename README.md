@@ -48,7 +48,7 @@ $\color{#245B61}{\textsf{╰┈➤　𓆩♡𓆪　─────────�
 &nbsp;&nbsp;
 <img src="unnamed (1).gif" width="120">
 &nbsp;&nbsp;
-<img src="truth.gif" width="120">
+<img src="computer_boy.gif" width="120">
 
 <br><br>
 
