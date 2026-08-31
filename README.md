@@ -28,13 +28,10 @@ $\color{#245B61}{\small{\textsf{all art here by ; Twow09 (will be replacing this
 
 <br>
 
-
-<br>
-
 <!-- MINECRAFT BLINKIE -->
 <img src="d63.gif" width="220">
 
-<br>
+<br><br>
 
 <!-- SMALL PERSONAL INFO -->
 $\color{#B2AD62}{\textsf{\textbf{Dakoda or Koda}}}$<br>
@@ -53,16 +50,16 @@ $\color{#245B61}{\textsf{╰┈➤　𓆩♡𓆪　─────────�
 <br>
 
 <!-- SMALL STAMPS / BLINKIES -->
-<img src="unnamed.gif" width="75">
+<img src="unnamed.gif" width="100">
 &nbsp;
-<img src="unnamed (1).gif" width="75">
+<img src="unnamed (1).gif" width="100">
 &nbsp;
-<img src="truth.gif" width="75">
+<img src="truth.gif" width="100">
 
 <br>
 
 <!-- PARROTX2 GIF -->
-<img src="parrotx2.gif" width="190" style="border-radius:14px;">
+<img src="parrotx2.gif" width="140" style="border-radius:14px;">
 
 <br>
 
@@ -82,6 +79,7 @@ $\color{#245B61}{\textsf{┈┈┈　୨୧　┈┈┈}}$
 
 $\color{#B2AD62}{\textsf{my oc}}$
 <br>
+
 <a href="https://ockiyoshi.straw.page">oc strawpage</a>
 
 <br>
