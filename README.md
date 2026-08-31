@@ -77,9 +77,6 @@ $\color{#245B61}{\textsf{┈┈┈　୨୧　┈┈┈}}$
 
 <br>
 
-$\color{#B2AD62}{\textsf{my oc}}$
-<br>
-
 <a href="https://ockiyoshi.straw.page">oc strawpage</a>
 
 <br>
