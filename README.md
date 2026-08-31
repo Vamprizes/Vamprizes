@@ -51,7 +51,7 @@ $\color{#245B61}{\textsf{╰┈➤　𓆩♡𓆪　─────────�
 &nbsp;
 <img src="unnamed (1).gif" width="75">
 &nbsp;
-<img src="computer_boy.gif" width="75">
+<img src="truth.gif" width="75">
 
 <br>
 
