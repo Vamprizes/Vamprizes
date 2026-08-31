@@ -53,7 +53,7 @@ $\color{#245B61}{\textsf{╰┈➤　𓆩♡𓆪　─────────�
 <br><br>
 
 <!-- EXTRA DECORATION -->
-<img src="" width="220">
+<img src="parrotx2.gif" width="220">
 
 <br><br>
 
