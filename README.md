@@ -2,6 +2,11 @@
 
 <br>
 
+<!-- ART CREDIT -->
+$\color{#245B61}{\small{\textsf{all art here by ; Twow09 (will be replacing this with my own art when its made :) )}}}$
+
+<br><br>
+
 <!-- MAIN IMAGE -->
 <img src="image_2026-08-31_033523056.png" width="600" style="border-radius:18px;">
 
