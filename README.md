@@ -44,7 +44,7 @@ $\color{#245B61}{\textsf{╰┈➤　𓆩♡𓆪　─────────�
 <br><br>
 
 <!-- STAMPS / BLINKIES -->
-<img src="YOUR STAMP HERE" width="120">
+<img src="unnamed.gif" width="120">
 &nbsp;&nbsp;
 <img src="unnamed (1).gif" width="120">
 &nbsp;&nbsp;
