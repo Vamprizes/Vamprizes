@@ -82,7 +82,7 @@ $\color{#B2AD62}{\textsf{my oc}}$
 <br><br>
 
 <!-- BOTTOM DECORATION -->
-<img src="YOUR BOTTOM DECORATION HERE" width="260">
+<img src="image_2026-08-31_034340535.png" width="260">
 
 <br><br>
 
