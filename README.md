@@ -19,7 +19,7 @@ $\color{#245B61}{\small{\textsf{all art here by ; Twow09 (will be replacing this
 
 <!-- MAIN IMAGE -->
 
-<img src="image_2026-08-31_033523056.png" width="600" style="border-radius:18px;">
+<img src="image_2026-08-31_033523056.png" width="500" style="border-radius:18px;">
 
 <br>
 
