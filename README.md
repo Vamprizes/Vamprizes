@@ -33,7 +33,7 @@ $\color{#245B61}{\small{\textsf{all art here by ; Twow09 (will be replacing this
 
 $\color{#B2AD62}{\textsf{\textbf{Dakoda or Koda}}}$<br>
 $\color{#789052}{\textsf{INFP}}$<br>
-$\color{#D2CE8A}{\textsf{19, 16+}}$
+$\color{#D2CE8A}{\textsf{19, 15+}}$
 
 <br>
 
